@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Currency Conversion</string>
+    <string name="txtTitle">Currency Conversion</string>
+    <string name="hint">Amount of US Dollars</string>
+    <string name="radEuros">Euros</string>
+    <string name="radPesos">Mexican Pesos</string>
+    <string name="radCanadian">Canadian Dollars</string>
+    <string name="button">CONVERT</string>
+    <string name="result"></string>
+</resources>
